@@ -1,63 +1,59 @@
 ---
-title: "About Me"
+title: "Problems I'm Exploring"
+pagetitle: "Problems I'm Exploring — Kayson Marler"
 ---
 
-::: {.hero-banner .text-center}
+<div class="hero" style="padding-bottom: 2rem;">
+<p class="hero-greeting">What I'm thinking about</p>
+<h1 class="hero-headline">Problems I'm <span class="accent">Exploring</span></h1>
+</div>
 
-<img src="DSC_4016.jpg" alt="Kayson Marler" class="rounded-circle mb-3" width="160">
+<div class="section fade-up">
+<h2 class="section-header">Integrating learning workflows</h2>
+<div class="bio-text">
+My coursework lives across multiple platforms—Canvas, LearningSuite, and various standalone websites. Keeping track of assignments, deadlines, and priorities across all of them is time-consuming and mentally draining. I'm interested in finding a way to automate this process and create a single, reliable system to manage everything in one place.
+</div>
+</div>
 
-<h1>Kayson Marler</h1>
+<div class="section fade-up">
+<h2 class="section-header">Helping professionals connect in more meaningful ways</h2>
+<div class="bio-text">
+Platforms like TED do an excellent job of bringing brilliant minds together, while LinkedIn helps people stay connected afterward. I'm curious whether there's a way to combine the strengths of both—using a digital platform to facilitate ongoing connections, but anchoring those connections in real, in-person interactions that create deeper value. I think that this could rise above superficial "friends" or "connections" online to create meaningful, valuable relationships.
+</div>
+</div>
 
-<a href="https://www.linkedin.com/in/kaysonmarler" class="btn btn-outline-primary btn-sm" target="_blank">
-  <i class="fab fa-linkedin"></i> LinkedIn
-</a>
-<a href="https://github.com/kaysonmm21" class="btn btn-outline-primary btn-sm" target="_blank">
-  <i class="fab fa-github"></i> GitHub
-</a>
+<div class="section fade-up">
+<h2 class="section-header">Preparing for consulting case interviews</h2>
+<div class="bio-text">
+Getting ready for consulting interviews can be challenging, especially because effective preparation often requires a partner to run cases with you. I'm exploring the idea of an AI-powered casing partner—one that can present cases, ask follow-up questions, and actively guide the interview process from start to finish. I want to help budget-constrained students break into consulting!
+</div>
+</div>
 
-:::
+<div class="section fade-up">
+<h2 class="section-header">Creating personalized workout plans</h2>
+<div class="bio-text">
+Designing an effective workout plan can be surprisingly difficult without guidance. I'm interested in whether AI could help generate customized workout plans through natural, conversational input. Ideally, this would also include simple visual explanations to demonstrate proper form for each exercise. This matters to me because I want to make the most out of limited workout time!
+</div>
+</div>
 
-## Background
+<div class="section fade-up">
+<h2 class="section-header">Enabling better progress monitoring for coaches and therapists</h2>
+<div class="bio-text">
+If coaches, therapists, or accountability partners could monitor progress between sessions—such as nutrition, exercise, or general habits—they could intervene earlier when someone starts to fall off track. This kind of proactive support could lead to better outcomes and more meaningful client relationships.
+</div>
+</div>
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
-
-### Education
-
-- **Degree Name**, University Name (Year)
-- **Relevant Coursework**: List key courses related to product management, analytics, or business
-- **Academic Achievements**: Honor societies, relevant projects, or awards
-
-### Experience
-
-#### Job/Internship Title - Company Name
-*Dates*
-
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
-
-#### Another Position - Company Name
-*Dates*
-
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
-
-### Skills & Interests
-
-**Technical Skills**
-- Programming languages (Python, R, SQL)
-- Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
-
-**Soft Skills**
-- Communication and presentation
-- Cross-functional collaboration
-- Strategic thinking and problem-solving
-
-**Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
-
-### What's Next
-
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+      }
+    });
+  }, { threshold: 0.05, rootMargin: '0px 0px -60px 0px' });
+  document.querySelectorAll('.fade-up').forEach(el => observer.observe(el));
+});
+</script>
+```

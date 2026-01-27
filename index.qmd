@@ -1,98 +1,222 @@
 ---
-title: "Welcome to My Product Management Portfolio"
+title: "Kayson Marler"
+pagetitle: "Kayson Marler — Strategy & Consulting"
 ---
 
-<div class="hero-banner text-center" style="background-image: url('DSC_4016.jpg');">
+<!-- ==================== HERO ==================== -->
 
-<h1>Kayson Marler</h1>
+<div class="hero">
 
-<p class="lead">Incoming Intern at Cicero | Leavitt Equity Partners Intern | Co-Founder | US Presidential Scholar</p>
+<img src="DSC_4016.jpg" alt="Kayson Marler" style="width: 100%; max-height: 500px; object-fit: cover; border-radius: 16px; margin-bottom: 1.5rem;">
 
-<a href="https://www.linkedin.com/in/kaysonmarler" class="btn btn-outline-primary btn-sm" target="_blank">
-  <i class="fab fa-linkedin"></i> LinkedIn
-</a>
-<a href="https://github.com/kaysonmm21" class="btn btn-outline-primary btn-sm" target="_blank">
-  <i class="fab fa-github"></i> GitHub
-</a>
+<p class="hero-greeting">Hello! I'm Kayson.</p>
+
+<h1 class="hero-headline">Solving complex problems with <span class="accent">strategy, data & leadership</span></h1>
+
+<div class="hero-bottom">
+<a href="https://www.linkedin.com/in/kaysonmarler" target="_blank" class="hero-cta"><i class="fab fa-linkedin" style="margin-right: 0.4rem;"></i> LinkedIn <span class="arrow">&rarr;</span></a>
+<a href="https://github.com/kaysonmm21" target="_blank" class="hero-cta" style="background: transparent; color: var(--black) !important; border: 2px solid var(--black);"><i class="fab fa-github" style="margin-right: 0.4rem;"></i> GitHub</a>
+<p class="hero-desc">A strategic management student at BYU's Marriott School of Business, incoming Cicero Group analyst intern, and builder of systems that make people more effective.</p>
+</div>
 
 </div>
 
-I'm a strategic management student at Brigham Young University's Marriott School of Business, pursuing the consulting track with a focus on structured problem-solving, data-driven decision-making, and leadership. I maintain a 4.00 GPA and have been recognized as a U.S. Presidential Scholar and Wheatley Scholar.
+<!-- ==================== ABOUT ==================== -->
 
-My experience reflects a strong interest in consulting-style work. I've supported investment and operational decisions at Leavitt Equity Partners by building financial models, conducting competitive analyses, and creating executive dashboards for a $200M+ fund. I also have served as a teaching assistant for Kim B. Clark, former Dean of Harvard Business School, where I helped students develop clearer leadership intuition through case-based leadership analysis.
+<div class="section fade-up">
+<p class="section-overline">About</p>
+<h2 class="section-header">Background</h2>
 
-This summer, I will be joining Cicero Group as an Analyst Intern, where I'm excited to deepen my experience in strategy consulting and client-facing problem-solving. Following this internship, I plan to pursue a full-time career in consulting.
+<div class="bio-text">
 
-Beyond coursework and internships, I enjoy building systems that make people more effective—whether through entrepreneurship, leadership training, or exploring how technology and AI can support better preparation and performance. I'm motivated by complex problems, rapid learning, and turning ambiguity into clear, actionable insights.
+I'm driven by structured problem-solving, leadership, and helping teams make better decisions. I've maintained a 4.00 GPA as a U.S. Presidential and Wheatley Scholar, and my experience spans investment analysis at Leavitt Equity Partners and leadership-focused case teaching as a TA to former HBS Dean Kim B. Clark. This summer, I'll join Cicero Group as an Analyst Intern, with the goal of pursuing consulting full-time. More broadly, I'm passionate about building systems—through strategy, entrepreneurship, and technology—that help people perform at their best.
 
-## Education
+</div>
+</div>
 
-**Brigham Young University -- Marriott School of Business** | Provo, UT\
-*Bachelor of Science in Strategic Management, Consulting Track* | September 2021 -- Present
+<!-- ==================== EDUCATION ==================== -->
 
-- GPA 4.00 / 4.00, Marriott School Dean's List
-- SAT 1460, 99th Percentile
-- Management Consulting Association -- Active Member
-- U.S. Presidential Scholar (Top 160 students nationally, U.S. Dept. of Education)
-- Wheatley Scholar, BYU (Conducting research aimed at fortifying core American institutions)
+<div class="section fade-up">
+<p class="section-overline">Education</p>
+<h2 class="section-header">Academic foundation</h2>
 
-## Experience
+<div class="edu-card">
+<div class="edu-title">B.S. Strategic Management, Consulting Track</div>
+<div class="edu-subtitle">Brigham Young University — Marriott School of Business · September 2021 – Present</div>
+<div class="tags">
+<span class="tag">GPA 4.00 / 4.00</span>
+<span class="tag">Dean's List</span>
+<span class="tag">SAT 1460 — 99th %</span>
+<span class="tag">U.S. Presidential Scholar</span>
+<span class="tag">Wheatley Scholar</span>
+<span class="tag">MCA Member</span>
+</div>
+</div>
+</div>
 
-### TA for Kim B. Clark -- Former Dean of Harvard Business School
-**Provo, UT** | *Teaching assistant for MSB 300 -- Leadership Course* | August 2025 -- Present
+<!-- ==================== EXPERIENCE ==================== -->
 
-- Evaluate students' leadership case analyses and provide targeted guidance to strengthen performance
+<div class="section fade-up">
+<p class="section-overline">Experience</p>
+<h2 class="section-header">Selected work</h2>
 
-### Leavitt Equity Partners
-**Salt Lake City, UT** | *Operations & Deals Team Intern* | May 2025 -- Jul 2025
+<div class="exp-list">
 
-- Created PowerPoint decks delivering market insights to inform Investment Committee equity allocations
-- Conducted competitive analyses for a biomedical joint venture, influencing product design and go/no-go decision
-- Built a KPI dashboard for the executive team to measure and prioritize fundraising efforts for a $200M+ fund
-- Leveraged VBA and rule-based ranking to create prioritized lead lists, streamlining preparation time by 67%
-- Developed financial models in excel with sensitivity testing to shape revenue-model decisions
+<div class="exp-item">
+<div>
+<div class="exp-title">Teaching Assistant — Kim B. Clark</div>
+<div class="exp-meta">Former Dean of Harvard Business School · MSB 300 Leadership · Provo, UT</div>
+<ul class="exp-points">
+<li>Evaluate students' leadership case analyses and provide targeted guidance to strengthen performance</li>
+</ul>
+</div>
+<div class="exp-period">Aug 2025 – Present</div>
+</div>
 
-### New Century Tutoring
-**Provo, UT** | *Tutor* | September 2024 -- May 2025
+<div class="exp-item">
+<div>
+<div class="exp-title">Operations & Deals Team Intern</div>
+<div class="exp-meta">Leavitt Equity Partners · Salt Lake City, UT</div>
+<ul class="exp-points">
+<li>Created PowerPoint decks delivering market insights to inform Investment Committee equity allocations</li>
+<li>Conducted competitive analyses for a biomedical joint venture, influencing product design and go/no-go decision</li>
+<li>Built a KPI dashboard for the executive team to measure and prioritize fundraising efforts for a $200M+ fund</li>
+<li>Leveraged VBA and rule-based ranking to create prioritized lead lists, streamlining preparation time by 67%</li>
+<li>Developed financial models in Excel with sensitivity testing to shape revenue-model decisions</li>
+</ul>
+</div>
+<div class="exp-period">May – Jul 2025</div>
+</div>
 
-- Coached students on time management and academic strategies, helping one student rise from 1.67 to 3.33 GPA
-- Strengthened students' problem-solving skills by teaching math concepts and real-life applications
+<div class="exp-item">
+<div>
+<div class="exp-title">Tutor</div>
+<div class="exp-meta">New Century Tutoring · Provo, UT</div>
+<ul class="exp-points">
+<li>Coached students on time management and academic strategies, helping one student rise from 1.67 to 3.33 GPA</li>
+<li>Strengthened students' problem-solving skills by teaching math concepts and real-life applications</li>
+</ul>
+</div>
+<div class="exp-period">Sep 2024 – May 2025</div>
+</div>
 
-### Chore Champion
-**Loveland, CO** | *Co-Founder* | September 2018 -- May 2021
+<div class="exp-item">
+<div>
+<div class="exp-title">Co-Founder</div>
+<div class="exp-meta">Chore Champion · Loveland, CO</div>
+<ul class="exp-points">
+<li>Secured $4,000 in funding by crafting compelling business plans and presenting at entrepreneurial competitions, including a 2nd place finish at the Incubators National Entrepreneurship Summit</li>
+<li>Drove 1,000+ app downloads by creating and executing social media campaigns</li>
+</ul>
+</div>
+<div class="exp-period">Sep 2018 – May 2021</div>
+</div>
 
-- Secured $4,000 in funding by crafting compelling business plans and presenting at entrepreneurial competitions, including a 2nd place finish at the Incubators National Entrepreneurship Summit
-- Drove 1000+ app downloads by creating and executing social media campaigns
+</div>
+</div>
 
-## Leadership & Service
+<!-- ==================== LEADERSHIP ==================== -->
 
-### The Church of Jesus Christ of Latter-day Saints
-**Lyon, France** | *Missionary* | June 2022 -- May 2024
+<div class="section fade-up">
+<p class="section-overline">Leadership & Service</p>
+<h2 class="section-header">Leading with purpose</h2>
 
-- Delivered over 40 workshops to 180+ missionaries to enhance missionaries' teaching capabilities
-- Led 50 full-day training exchanges focused on skill-building, French learning, and holistic volunteer well-being
+<div class="lead-row">
 
-### Colorado DECA
-**Loveland, CO** | *State Officer* | February 2020 -- February 2021
+<div class="lead-item">
+<div class="lead-title">Volunteer Missionary</div>
+<div class="lead-meta">The Church of Jesus Christ of Latter-day Saints · Lyon, France · Jun 2022 – May 2024</div>
+<ul class="exp-points">
+<li>Delivered over 40 workshops to 180+ missionaries to enhance teaching capabilities</li>
+<li>Led 50 full-day training exchanges focused on skill-building, French learning, and holistic volunteer well-being</li>
+</ul>
+</div>
 
-- Directed 8,000+ aspiring business professionals in case and role-play competitions as a state leadership officer
-- Planned and hosted a virtual conference with 550+ attendees and a live-streamed awards ceremony
+<div class="lead-item">
+<div class="lead-title">State Officer</div>
+<div class="lead-meta">Colorado DECA · Loveland, CO · Feb 2020 – Feb 2021</div>
+<ul class="exp-points">
+<li>Directed 8,000+ aspiring business professionals in case and role-play competitions as a state leadership officer</li>
+<li>Planned and hosted a virtual conference with 550+ attendees and a live-streamed awards ceremony</li>
+</ul>
+</div>
 
-## Awards & Skills
+</div>
+</div>
 
-- Bain Consulting Case Competition (Top 4), Marriott School of Business Case Competition (Finalist -- Top 12)
-- 3X DECA Entrepreneurship State Champion, International finalist (Top 20)
-- City of Loveland Tennis Player of the Year -- 2021
-- **Technical Skills:** Excel (Financial Modeling, VBA & SQL, Statistical Analysis), Data Visualization, PowerPoint
-- **Leadership Coaching:** Trained by the Sorensen Leadership Center to perform executive-style leadership coaching
-- **Rapid Learning:** Successfully passed the BYU Physical Science challenge exam after one week of personal study
+<!-- ==================== AWARDS ==================== -->
 
-## Featured Projects
+<div class="section fade-up">
+<p class="section-overline">Recognition & Capabilities</p>
+<h2 class="section-header">Awards & skills</h2>
 
-::: {.g-col-12 .g-col-md-6 .card}
+<div class="awards-row">
 
-### [Name of my first app](projects/project-1.qmd)
-A one sentence description of my first application which is deployed to vercel.
+<div class="award-box">
+<div class="award-label">Case Competitions</div>
+<div class="award-desc">Bain Consulting Case Competition (Top 4) · Marriott School Finalist (Top 12) · 3x DECA State Champion · International Finalist (Top 20)</div>
+</div>
 
-:::
+<div class="award-box">
+<div class="award-label">Technical Skills</div>
+<div class="award-desc">Excel (Financial Modeling, VBA & SQL, Statistical Analysis) · Data Visualization · PowerPoint · Python · AI & Automation</div>
+</div>
 
+<div class="award-box">
+<div class="award-label">Leadership Coaching</div>
+<div class="award-desc">Trained by the Sorensen Leadership Center to perform executive-style leadership coaching</div>
+</div>
+
+<div class="award-box">
+<div class="award-label">Athletics</div>
+<div class="award-desc">City of Loveland Tennis Player of the Year — 2021</div>
+</div>
+
+<div class="award-box">
+<div class="award-label">Rapid Learning</div>
+<div class="award-desc">Passed the BYU Physical Science challenge exam after one week of personal study</div>
+</div>
+
+<div class="award-box">
+<div class="award-label">National Recognition</div>
+<div class="award-desc">U.S. Presidential Scholar — Top 160 students nationally, U.S. Department of Education</div>
+</div>
+
+</div>
+</div>
+
+<!-- ==================== PROJECTS ==================== -->
+
+<div class="section fade-up">
+<p class="section-overline">Projects</p>
+<h2 class="section-header">Featured work</h2>
+
+<div class="project-box">
+
+### [In Their Footsteps](projects/project-1.qmd)
+A historical context explorer that helps family history researchers discover the world their ancestors lived in.
+
+</div>
+</div>
+
+<!-- ==================== CONTACT ==================== -->
+
+<div class="contact-bar">
+<a href="https://www.linkedin.com/in/kaysonmarler" target="_blank" class="contact-link"><i class="fab fa-linkedin"></i> LinkedIn</a>
+<a href="https://github.com/kaysonmm21" target="_blank" class="contact-link"><i class="fab fa-github"></i> GitHub</a>
+</div>
+
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+      }
+    });
+  }, { threshold: 0.05, rootMargin: '0px 0px -60px 0px' });
+  document.querySelectorAll('.fade-up').forEach(el => observer.observe(el));
+});
+</script>
+```

@@ -3,19 +3,20 @@ project:
   output-dir: _site
 
 website:
-  title: ""
+  title: "Kayson Marler"
   favicon: images/prototyping-favicon.png
   navbar:
-    background: primary
+    background: light
+    foreground: dark
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About
+        text: Problems I'm Exploring
       - text: Projects
         menu:
           - href: projects/project-1.qmd
-            text: Name of my first app
+            text: In Their Footsteps
           #- href: projects/project-2.qmd
           #  text: Business Case Presentation
           #- href: projects/project-3.qmd
@@ -31,7 +32,10 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
     include-in-header:
       - text: |
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800&display=swap" rel="stylesheet">
