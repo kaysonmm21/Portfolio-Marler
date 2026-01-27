@@ -49,26 +49,49 @@
 /* Hero banner styling */
 .hero-banner {
   text-align: center;
-  padding: 3rem 2rem;
-  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  padding: 6rem 2rem;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
   border-radius: 12px;
   margin-bottom: 3rem;
   border: 1px solid #dee2e6;
+  position: relative;
+}
+
+.hero-banner::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.45);
+  border-radius: 12px;
+}
+
+.hero-banner > * {
+  position: relative;
+  z-index: 1;
 }
 
 .hero-banner h1 {
   font-size: 2.5rem;
   font-weight: 700;
-  color: #2c3e50;
+  color: #ffffff;
   margin-bottom: 0.5rem;
 }
 
 .hero-banner h2 {
   font-size: 1.25rem;
   font-weight: 400;
-  color: #6c757d;
+  color: #e0e0e0;
   margin-bottom: 2rem;
   margin-top: 0;
+}
+
+.hero-banner .lead {
+  color: #e0e0e0;
 }
 
 .hero-banner .btn {
