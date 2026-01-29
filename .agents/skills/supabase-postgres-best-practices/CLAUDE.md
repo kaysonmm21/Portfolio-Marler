@@ -1,0 +1,1 @@
+/var/folders/s3/2jxpp03938l05r7kjz5qmd800000gn/T/skills-jSqaJB/skills/supabase-postgres-best-practices/AGENTS.md
