@@ -14,7 +14,7 @@ Most case prep tools rely on static frameworks or human practice partners that a
 **Key capabilities:**
 
 - Record and transcribe audio case responses in real time
-- AI evaluation across a 20-point rubric aligned to MBB interview standards
+- AI evaluation across a 20-point rubric aligned to interview standards at top firms
 - Session-to-session score tracking to surface improvement trends
 - Targeted hypothesis drills triggered by underperformance on specific dimensions
 
