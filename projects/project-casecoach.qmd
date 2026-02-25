@@ -9,7 +9,7 @@ categories: [GitHub, Vercel, Claude Code]
 
 CaseCoachAI is an AI-powered consulting case interview trainer that lets candidates practice structuring and delivering frameworks out loud — on demand, without a practice partner. The app records audio responses, transcribes them, and evaluates them across a 20-point rubric using AI, tracking score improvement across sessions.
 
-Most case prep tools rely on static frameworks or human practice partners that are hard to schedule and inconsistent to evaluate. CaseCoachAI provides rubric-anchored AI scoring tied to the exact dimensions like structural quality, hypothesis prioritization, and strategic fit. When a candidate scores below threshold on their weakest dimension, the app surfaces a targeted hypothesis drill for focused remediation rather than full re-practice.
+Most case prep tools rely on static frameworks or human practice partners that are hard to schedule and inconsistent to evaluate. CaseCoachAI provides rubric-anchored AI scoring tied to the dimensions like structural quality, hypothesis prioritization, and strategic fit. When a candidate scores below threshold on their weakest dimension, the app surfaces a targeted hypothesis drill for focused remediation rather than full re-practice.
 
 **Key capabilities:**
 
