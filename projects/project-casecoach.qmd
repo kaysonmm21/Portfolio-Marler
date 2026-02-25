@@ -1,0 +1,56 @@
+---
+title: "CaseCoachAI"
+pagetitle: "CaseCoachAI — Kayson Marler"
+date: "2025-02-25"
+categories: [GitHub, Vercel, Claude Code]
+---
+
+## Overview
+
+CaseCoachAI is an AI-powered consulting case interview trainer that lets candidates practice structuring and delivering frameworks out loud — on demand, without a practice partner. The app records audio responses, transcribes them, and evaluates them across a 20-point rubric using AI, tracking score improvement across sessions.
+
+Most case prep tools rely on static frameworks or human practice partners that are hard to schedule and inconsistent to evaluate. CaseCoachAI provides rubric-anchored AI scoring tied to the exact dimensions MBB interviewers assess — including structural quality, hypothesis prioritization, and strategic fit. When a candidate scores below threshold on their weakest dimension, the app surfaces a targeted hypothesis drill for focused remediation rather than full re-practice.
+
+**Key capabilities:**
+
+- Record and transcribe audio case responses in real time
+- AI evaluation across a 20-point rubric aligned to MBB interview standards
+- Session-to-session score tracking to surface improvement trends
+- Targeted hypothesis drills triggered by underperformance on specific dimensions
+
+## Live Product Demo
+
+<div class="d-flex justify-content-center gap-3 my-4">
+  <!-- Open App button -->
+  <a class="btn btn-primary d-inline-flex align-items-center"
+     href="https://consulting-prep-eight.vercel.app/"
+     target="_blank" rel="noopener"
+     aria-label="Open live app">
+    <i class="fa-solid fa-window-restore me-2" aria-hidden="true"></i>
+    Open App in New Tab
+  </a>
+
+  <!-- GitHub Source button -->
+  <a class="btn btn-outline-dark d-inline-flex align-items-center"
+     href="https://github.com/kaysonmm21"
+     target="_blank" rel="noopener"
+     aria-label="Open GitHub source">
+    <i class="fa-brands fa-github me-2" aria-hidden="true"></i>
+    View Source on GitHub
+  </a>
+</div>
+
+<iframe src="https://consulting-prep-eight.vercel.app/"
+        style="width:100%; height:900px; border:none;"
+        allowfullscreen>
+</iframe>
+
+## Technical Details
+
+Framework/Stack: React, Vercel
+
+Deployment: GitHub + Vercel
+
+Tools Used:
+
+- Claude Code

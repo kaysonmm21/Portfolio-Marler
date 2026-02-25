@@ -197,6 +197,13 @@ I'm driven by structured problem-solving, leadership, and helping teams make bet
 A historical context explorer that helps family history researchers discover the world their ancestors lived in.
 
 </div>
+
+<div class="project-box">
+
+### [CaseCoachAI](projects/project-casecoach.qmd)
+An AI-powered consulting case interview trainer with audio recording, rubric-anchored scoring, and session-to-session progress tracking.
+
+</div>
 </div>
 
 <!-- ==================== CONTACT ==================== -->
